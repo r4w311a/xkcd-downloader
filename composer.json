@@ -1,0 +1,13 @@
+{
+    "name": "r4w311a/my-web-scraping",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hussein Malkawi",
+            "email": "r4w311a@gmail.com"
+        }
+    ],
+    "require": {
+        "imangazaliev/didom": "^2.0"
+    }
+}
